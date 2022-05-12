@@ -14,7 +14,7 @@ export function Suggestion() {
 
   return (
     <>
-      <div className="flex justify-end m-3">
+      <div className="flex justify-end m-4">
         <button
           type="button"
           onClick={openModal}
