@@ -12,7 +12,7 @@ export function Header() {
         <OptionsButton />
         |
         <button className="hover:text-stone-300 transition">
-          <Link href="https://www.youtube.com/watch?v=3ITJnBBeX4E&ab_channel=LofiZone">Sobre</Link>
+          <Link href="https://github.com/ZaninDe">Sobre</Link>
         </button>
       </div>
     </div >
